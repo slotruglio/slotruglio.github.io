@@ -1,6 +1,7 @@
 {
     "engineer": "Ingegnere Informatico",
-    "description": "Ho 23 anni e vivo a Torino",
+    "description-part1": "Ho passato ", 
+    "description-part2":" anni sulla Terra 🌎 e vivo a Torino",
     "bachelor": "Nel 2021 ho ottenuto la laurea triennale in Ingegneria Informatica con voto 110/110 e lode presso l'Università degli Studi di Palermo.",
     "master": "Attualmente sto studiando per conseguire la laurea magistrale in Ingegneria Informatica: Artificial Intelligence and Data Analytics presso il Politecnico di Torino.",
     "scroll": "Scorri per vedere di più",

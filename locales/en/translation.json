@@ -1,6 +1,7 @@
 {
     "engineer": "Computer Science Engineer",
-    "description": "I'm 23 years old and I live in Turin, Italy",
+    "description-part1": "I've spent ", 
+    "description-part2":" years on Earth 🌎 and I live in Turin, Italy",
     "bachelor": "In 2021 I got my bachelor's degree in Computer Science Engineering at the Università degli Studi di Palermo.",
     "master": "I'm currently studying to get a Master's degree in Artificial Intelligence and Data Analytics at the Politecnico di Torino.",
     "scroll": "Scroll for more",
